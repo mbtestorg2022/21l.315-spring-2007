@@ -4,6 +4,7 @@ description: Partial transcript of class discussion about Seamus Heaney, Field W
   and Seeing Things.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-315-prizewinners-spring-2007/d999c3f5ecd9f44ec362458f4d929d42_lect5.pdf
 file_type: application/pdf
+parent_uid: aae62227-5d8d-38ef-6856-1a930308f80d
 resourcetype: Document
 title: lect5.pdf
 uid: d999c3f5-ecd9-f44e-c362-458f4d929d42
